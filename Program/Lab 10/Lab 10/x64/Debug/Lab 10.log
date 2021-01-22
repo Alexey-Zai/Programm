@@ -1,0 +1,4 @@
+﻿  Lab 10.cpp
+C:\Users\shuma\OneDrive\Документы\zaichenko2\Program\Lab 10\Lab 10\Lab 10.cpp(20,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\shuma\OneDrive\Документы\zaichenko2\Program\Lab 10\Lab 10\Lab 10.cpp(21,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab 10.vcxproj -> C:\Users\shuma\OneDrive\Документы\zaichenko2\Program\Lab 10\x64\Debug\Lab 10.exe

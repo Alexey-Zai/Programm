@@ -1,0 +1,5 @@
+﻿  Lab 9.cpp
+C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 9\Lab 9\Lab 9.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 9\Lab 9\Lab 9.cpp(16,10): warning C4101: s: неиспользованная локальная переменная
+C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 9\Lab 9\Lab 9.cpp(32,43): warning C4101: answer: неиспользованная локальная переменная
+  Lab 9.vcxproj -> C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 9\Debug\Lab 9.exe

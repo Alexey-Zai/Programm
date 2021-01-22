@@ -1,0 +1,4 @@
+﻿  Lab 8.cpp
+C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 8\Lab 8\Lab 8.cpp(19,2): warning C4091: typedef : пропускается слева от "shcoolBoy", когда ни одна переменная не объявлена
+C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 8\Lab 8\Lab 8.cpp(156,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab 8.vcxproj -> C:\Users\shuma\OneDrive\Документы\zaichenko\Program\Lab 8\Debug\Lab 8.exe
